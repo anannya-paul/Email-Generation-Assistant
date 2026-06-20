@@ -1,5 +1,5 @@
 # Email Generation Assistant
-# Project README: Llama 3 Email Generation and Evaluation Assistant
+# Project README: Email Generation Assistant
 
 This project implements an AI assistant for generating and evaluating emails using the Llama 3 language model. It features two prompting strategies—'Original' and 'Concise'—and a custom evaluation framework to compare their performance across various metrics.
 
